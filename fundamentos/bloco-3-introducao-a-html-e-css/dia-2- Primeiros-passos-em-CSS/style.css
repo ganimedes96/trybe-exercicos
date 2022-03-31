@@ -1,0 +1,29 @@
+h1{
+    font-size: 64px;
+    color:orange;
+    font-family: sans-serif;
+
+
+}
+p{
+    font-weight: 600;
+    font-size:3em;
+}
+.yellow{
+    background-color:yellow;
+
+}
+.red{
+    background: red;
+}
+.brown{
+    background:brown;
+}
+
+
+.style{
+    background-color: purple;
+    list-style: none;
+
+}
+
